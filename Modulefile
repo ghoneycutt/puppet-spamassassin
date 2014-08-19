@@ -1,2 +1,8 @@
 name    'ghoneycutt-spamassassin'
 version '1.0.1'
+source 'git://github.com/ghoneycutt/puppet-spamassassin.git'
+author 'ghoneycutt'
+license 'GPL v2'
+summary 'Manage Spamassassin'
+description 'Manage Spamassassin'
+project_page 'https://github.com/ghoneycutt/puppet-spamassassin'
